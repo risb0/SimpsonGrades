@@ -12,8 +12,8 @@ import com.firebase.client.ValueEventListener;
 import stanford.androidlib.SimpleActivity;
 
 public class SimpsonGradesActivity extends SimpleActivity {
-    private static final String EMAIL = "bponcet7@gmail.com";
-    private static final String PASSWORD = "bponcet7@gmail.com";
+    private static final String EMAIL = "bpo@gmail.com";
+    private static final String PASSWORD = "bpo@gmail.com";
     private static final String[] DATABASE_NAMES = {"simpsons", "world"};
 
 
